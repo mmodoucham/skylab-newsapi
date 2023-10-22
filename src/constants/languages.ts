@@ -1,0 +1,15 @@
+export const languageOptions = [
+  { code: 'ar', label: '🇸🇦 Arabic' },
+  { code: 'de', label: '🇩🇪 German' },
+  { code: 'en', label: '🇬🇧 English' },
+  { code: 'es', label: '🇪🇸 Spanish' },
+  { code: 'fr', label: '🇫🇷 French' },
+  { code: 'it', label: '🇮🇹 Italian' },
+  { code: 'nl', label: '🇳🇱 Dutch' },
+  { code: 'no', label: '🇳🇴 Norwegian' },
+  { code: 'pt', label: '🇵🇹 Portuguese' },
+  { code: 'ru', label: '🇷🇺 Russian' },
+  { code: 'sv', label: '🇸🇪 Swedish' },
+  { code: 'uz', label: '🇺🇿 Uzbek' },
+  { code: 'zh', label: '🇨🇳 Chinese' },
+]
